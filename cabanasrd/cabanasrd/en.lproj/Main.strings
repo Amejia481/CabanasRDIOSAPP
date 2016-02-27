@@ -1,0 +1,24 @@
+
+/* Class = "UITabBarItem"; title = "Equipo"; ObjectID = "9VY-p4-TU6"; */
+"9VY-p4-TU6.title" = "Team";
+
+/* Class = "UISearchBar"; placeholder = "Buscar"; ObjectID = "ACn-pv-AxG"; */
+"ACn-pv-AxG.placeholder" = "Search";
+
+/* Class = "UIViewController"; title = "Cercanas"; ObjectID = "EE4-qD-Uc4"; */
+"EE4-qD-Uc4.title" = "Cercanas";
+
+/* Class = "UINavigationItem"; title = "Equipo"; ObjectID = "KyW-VY-Idx"; */
+"KyW-VY-Idx.title" = "Team";
+
+/* Class = "UITabBarItem"; title = "Locales"; ObjectID = "cE0-mI-xxP"; */
+"cE0-mI-xxP.title" = "Places";
+
+/* Class = "UINavigationController"; title = "TEAM"; ObjectID = "ppE-a6-dPq"; */
+"ppE-a6-dPq.title" = "Team";
+
+/* Class = "UILabel"; text = "Localiza la cabaña más cercana a ti"; ObjectID = "rgv-zD-4pu"; */
+"rgv-zD-4pu.text" = "Find the nearest Hotel to you";
+
+/* Class = "UITabBarItem"; title = "Equipo"; ObjectID = "s7N-ZQ-yht"; */
+"s7N-ZQ-yht.title" = "Team";

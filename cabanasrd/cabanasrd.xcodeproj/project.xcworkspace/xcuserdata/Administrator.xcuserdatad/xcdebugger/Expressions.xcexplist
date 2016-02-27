@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "cabanasrd.LoadingController.viewDidAppear (cabanasrd.LoadingController)(Swift.Bool) -&gt; ():LoadingController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "MotelsHandler.sharedInstance.motels[0].name!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "cabanasrd.FiendHotelOfMotelMapController.searchDisplayController (cabanasrd.FiendHotelOfMotelMapController)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UISearchDisplayController&gt;, shouldReloadTableForSearchString : Swift.ImplicitlyUnwrappedOptional&lt;Swift.String&gt;) -&gt; Swift.Bool:FiendHotelOfMotelMapController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchString.isEmpty">
+            </PersistentString>
+            <PersistentString
+               value = "controller.searchResultsTableView.numberOfSections()">
+            </PersistentString>
+            <PersistentString
+               value = "filteredCandies.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "cabanasrd.FiendHotelOfMotelMapController.tableView (cabanasrd.FiendHotelOfMotelMapController)(ObjectiveC.UITableView, titleForHeaderInSection : Swift.Int) -&gt; Swift.Optional&lt;Swift.String&gt;:FiendHotelOfMotelMapController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchBar.text.isEmpty">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "cabanasrd.FiendHotelOfMotelMapController.viewDidLoad (cabanasrd.FiendHotelOfMotelMapController)() -&gt; ():FiendHotelOfMotelMapController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "filterTable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "cabanasrd.SecondViewController.webView (cabanasrd.SecondViewController)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIWebView&gt;, shouldStartLoadWithRequest : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURLRequest&gt;, navigationType : C.UIWebViewNavigationType) -&gt; Swift.Bool:SecondViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.URL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "cabanasrd.MotelsHandler.(loadDataFromTheServer (cabanasrd.MotelsHandler) -&gt; () -&gt; ()).(closure #1):MotelsHandler.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newMotel.motelServices.count">
+            </PersistentString>
+            <PersistentString
+               value = "arrayData[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "cabanasrd.FiendHotelOfMotelMapController.tableView (cabanasrd.FiendHotelOfMotelMapController)(ObjectiveC.UITableView, didSelectRowAtIndexPath : ObjectiveC.NSIndexPath) -&gt; ():FiendHotelOfMotelMapController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchBar.text.stringByTrimmingCharactersInSet(NSCharacterSet.whitespaceCharacterSet())">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "cabanasrd.FiendHotelOfMotelMapController.tableView (cabanasrd.FiendHotelOfMotelMapController)(ObjectiveC.UITableView, numberOfRowsInSection : Swift.Int) -&gt; Swift.Int:FiendHotelOfMotelMapController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchBar.text.isEmpty">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
